@@ -1,0 +1,16 @@
+test_failed_delivery_does_not_save_state (test_alert.TestTelegramAlert.test_failed_delivery_does_not_save_state) ... ok
+test_high_cpu_warning (test_alert.TestTelegramAlert.test_high_cpu_warning) ... ok
+test_no_duplicate_alert (test_alert.TestTelegramAlert.test_no_duplicate_alert) ... ok
+test_normal_status (test_alert.TestTelegramAlert.test_normal_status) ... ok
+test_recovery_notification (test_alert.TestTelegramAlert.test_recovery_notification) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.005s
+
+OK
+Monitoring completed: WARNING
+Monitoring completed: WARNING
+Monitoring completed: WARNING
+Monitoring completed: HEALTHY
+Monitoring completed: WARNING
+Monitoring completed: HEALTHY
